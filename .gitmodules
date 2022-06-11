@@ -1,0 +1,3 @@
+[submodule "lab2/Qt-Secret"]
+	path = lab2/Qt-Secret
+	url = https://github.com/QuasarApp/Qt-Secret.git
